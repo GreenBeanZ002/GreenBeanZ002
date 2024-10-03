@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on a game in unity
-- 🌱 I’m currently learning c++ to make a 2d game in unreal
+- 🌱 I’m currently learning c++ 
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
