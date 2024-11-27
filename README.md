@@ -5,14 +5,14 @@ Hi there 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a game in unity
-- 🌱 I’m currently learning c#
+- 🔭 I’m currently working on learning to mod Minecraft / a Unity game 
+- 🌱 I’m currently learning java / c++
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
 -->
 
 
-- 🔭 I’m currently working on a game in unity
-- 🌱 I’m currently learning c++ 
+- 🔭 I’m currently working on learning to mod Minecraft / a Unity game 
+- 🌱 I’m currently learning java / c++
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
