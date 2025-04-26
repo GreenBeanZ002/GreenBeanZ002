@@ -12,7 +12,4 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on learning to mod Minecraft / a Unity game 
-- 🌱 I’m currently learning java / c++
-- 💬 Ask me about anything
-- 😄 Pronouns: He/Him
+Game Dev in training, I know a few languages pretty well - ask if you need a hand.
